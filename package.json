@@ -1,0 +1,33 @@
+{
+  "name": "ha_fontawesome",
+  "version": "1.0.0",
+  "description": "Home Assistant Font Awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WebDevNerdStuff & Bunnies... lots and lots of bunnies! <webdevnerdstuff@gmail.com> (https://webdevnerdstuff.com)",
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/webdevnerdstuff"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/WebDevNerdStuff"
+    }
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/webdevnerdstuff/ha-fontawesome",
+  "keywords": [
+    "home assistant",
+    "homeAssistant",
+    "ha",
+    "hacs",
+    "font awesome",
+    "fontAwesome",
+    "integration",
+    "webdevnerdstuff",
+    "wdns"
+  ]
+}
