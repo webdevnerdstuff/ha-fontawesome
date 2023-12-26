@@ -6,10 +6,7 @@
     "@webdevnerdstuff"
   ],
   "config_flow": true,
-  "dependencies": [
-    "frontend",
-    "http"
-  ],
+  "dependencies": [],
   "documentation": "https://github.com/webdevnerdstuff/ha-fontawesome",
   "iot_class": "local_polling",
   "requirements": []
