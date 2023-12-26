@@ -1,0 +1,16 @@
+{
+  "domain": "ha_fontawesome",
+  "name": "Home Assistant Font Awesome",
+  "version": "1.0.0",
+  "codeowners": [
+    "@webdevnerdstuff"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "frontend",
+    "http"
+  ],
+  "documentation": "https://github.com/webdevnerdstuff/ha-fontawesome",
+  "iot_class": "local_polling",
+  "requirements": []
+}
